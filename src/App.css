@@ -38,5 +38,9 @@
 }
 
 body {
-  background-color: #e98f09d7;
+  height: 97.1vh;
+  background: linear-gradient(#e98f09d7, #ffee00);
+  background-size: cover;
+  background-repeat: no-repeat;
+  animation: gradientShift 15s ease infinite;
 }
